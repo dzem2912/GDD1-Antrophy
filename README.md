@@ -1,2 +1,2 @@
-# GDD1-Antrophy
+# GDD1-Antropy
 Submission of the GDD1 Game
